@@ -1,0 +1,10 @@
+Library
+*.userprefs
+*.DS_Store
+*.sln
+*.metadata
+Assembly-CSharp-firstpass*
+Assembly-CSharp-Editor*
+Assembly-CSharp*
+Assembly-UnityScript*
+Temp
